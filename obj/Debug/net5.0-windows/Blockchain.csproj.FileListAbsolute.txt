@@ -1,0 +1,53 @@
+C:\Users\Luka\Desktop\FERI 2-letnik\Vaje\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.exe
+C:\Users\Luka\Desktop\FERI 2-letnik\Vaje\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.deps.json
+C:\Users\Luka\Desktop\FERI 2-letnik\Vaje\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.runtimeconfig.json
+C:\Users\Luka\Desktop\FERI 2-letnik\Vaje\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.runtimeconfig.dev.json
+C:\Users\Luka\Desktop\FERI 2-letnik\Vaje\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.dll
+C:\Users\Luka\Desktop\FERI 2-letnik\Vaje\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\bin\Debug\net5.0-windows\ref\Blockchain.dll
+C:\Users\Luka\Desktop\FERI 2-letnik\Vaje\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.pdb
+C:\Users\Luka\Desktop\FERI 2-letnik\Vaje\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.csproj.GenerateResource.cache
+C:\Users\Luka\Desktop\FERI 2-letnik\Vaje\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\Desktop\FERI 2-letnik\Vaje\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.AssemblyInfoInputs.cache
+C:\Users\Luka\Desktop\FERI 2-letnik\Vaje\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.AssemblyInfo.cs
+C:\Users\Luka\Desktop\FERI 2-letnik\Vaje\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\FERI 2-letnik\Vaje\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.dll
+C:\Users\Luka\Desktop\FERI 2-letnik\Vaje\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\ref\Blockchain.dll
+C:\Users\Luka\Desktop\FERI 2-letnik\Vaje\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.pdb
+C:\Users\Luka\Desktop\FERI 2-letnik\Vaje\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.genruntimeconfig.cache
+C:\Users\Luka\Desktop\FERI 2-letnik\Vaje\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.RichTextBoxExtensions.resources
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.exe
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.deps.json
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.runtimeconfig.json
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.runtimeconfig.dev.json
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.dll
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.pdb
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.csproj.AssemblyReference.cache
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.RichTextBoxExtensions.resources
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.csproj.GenerateResource.cache
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.AssemblyInfoInputs.cache
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.AssemblyInfo.cs
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.csproj.CoreCompileInputs.cache
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.dll
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.pdb
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.genruntimeconfig.cache
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\obj\Debug\net5.0-windows\ref\Blockchain.dll
+C:\Users\Blaz\Desktop\FERI - 2. letnik\Računalniška omrežja\Vaja 5 - Blockchain\Blockchain\Blockchain\bin\Debug\net5.0-windows\ref\Blockchain.dll
+C:\Users\Ella\Desktop\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.exe
+C:\Users\Ella\Desktop\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.deps.json
+C:\Users\Ella\Desktop\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.runtimeconfig.json
+C:\Users\Ella\Desktop\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.runtimeconfig.dev.json
+C:\Users\Ella\Desktop\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.dll
+C:\Users\Ella\Desktop\Blockchain\Blockchain\bin\Debug\net5.0-windows\Blockchain.pdb
+C:\Users\Ella\Desktop\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.csproj.AssemblyReference.cache
+C:\Users\Ella\Desktop\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.RichTextBoxExtensions.resources
+C:\Users\Ella\Desktop\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.csproj.GenerateResource.cache
+C:\Users\Ella\Desktop\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ella\Desktop\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.AssemblyInfoInputs.cache
+C:\Users\Ella\Desktop\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.AssemblyInfo.cs
+C:\Users\Ella\Desktop\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.csproj.CoreCompileInputs.cache
+C:\Users\Ella\Desktop\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.dll
+C:\Users\Ella\Desktop\Blockchain\Blockchain\obj\Debug\net5.0-windows\refint\Blockchain.dll
+C:\Users\Ella\Desktop\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.pdb
+C:\Users\Ella\Desktop\Blockchain\Blockchain\obj\Debug\net5.0-windows\Blockchain.genruntimeconfig.cache
+C:\Users\Ella\Desktop\Blockchain\Blockchain\obj\Debug\net5.0-windows\ref\Blockchain.dll
